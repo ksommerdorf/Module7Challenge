@@ -11,17 +11,21 @@ Deliverable 1:
 * Created a table with data of employees who will be retiring and their job titles and named the table 'retirement_titles'. Data used to make the table was pulled from employees.csv and titles.csv.
 * Assumptions: 
   * Employees who were born between January 1, 1952 and December 31, 1955 care considered to be retiring soon.
-[retirement_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551444/retirement_titles.csv)
+
+( [retirement_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551444/retirement_titles.csv) )
 
 * Then created a table using the retirement_titles table and filtered out employee's previous positions. The data was then put into a new table called unique_titles and demostrates the most recent data for better analysis. The table contains 72,458 employees.
-[unique_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551450/unique_titles.csv)
+
+( [unique_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551450/unique_titles.csv) )
 
 * Using the data from unique_titles I created a table called retiring_titles that counts the number of retiring employees for each job position. 
-[retiring_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551451/retiring_titles.csv)
+
+( [retiring_titles.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551451/retiring_titles.csv) )
 
 Deliverable 2:
 * Created a table for employees who are eligible for the mentorship eligibilty from the employees.csv, dept_emp.csv, and titles.csv. Those eligible are current employees who were born between January 1, 1965 and December 31, 1965. This data was loaded into mentorship_eligibilty table.
-[mentorship_eligibilty.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551454/mentorship_eligibilty.csv)
+
+( [mentorship_eligibilty.csv](https://github.com/ksommerdorf/Module7Challenge/files/8551454/mentorship_eligibilty.csv) )
 
 ## Results
 
